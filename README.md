@@ -158,4 +158,4 @@ journalctl -p 0..2 >> /home/sysadmin/Priority_High.txt
 0 6 * * * journalctl -p 0..2 >> /home/sysadmin/Priority_High.txt >/dev/null 2>&1
 
 ---
-Â© 2022 Trilogy Education Services, a 2U, Inc. brand. All Rights Reserved.
+Â© 2022 Trilogy Education Services, a 2U, Inc. brand. All Rights Reserved. 
